@@ -1,0 +1,17 @@
+{'station_id': 'air_0001', 'station_name': 'AIR 0001', 'sensors': [
+        {'sensor_id': 'TEMP_0001', 'sensor_value': 24
+        },
+        {'sensor_id': 'HUMID_0001', 'sensor_value': 31
+        },
+        {'sensor_id': 'NOISE_0001', 'sensor_value': 29
+        },
+        {'sensor_id': 'PM2.5_0001', 'sensor_value': 21
+        },
+        {'sensor_id': 'PM10_0001', 'sensor_value': 37
+        },
+        {'sensor_id': 'ATMOSPHERE_0001', 'sensor_value': 25
+        },
+        {'sensor_id': 'ILLUMINANCE_0001', 'sensor_value': 24
+        }
+    ]
+}
